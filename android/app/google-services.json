@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1098281718895",
+    "project_id": "fifine",
+    "storage_bucket": "fifine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098281718895:android:3464062b8624821e08e99a",
+        "android_client_info": {
+          "package_name": "com.example.fifine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098281718895-s4rcsgu03vuin1m1qnl6511sqs2csfoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEjOSSA27q-2Z8q1kj7SnqpxYahaWVNjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098281718895-s4rcsgu03vuin1m1qnl6511sqs2csfoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098281718895-2alitao50ik2orf25cm150d4olh4u9gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fifine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
